@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'GSHArraySafe_Example' do
+  pod 'GSHArraySafe', :path => '../'
+
+  target 'GSHArraySafe_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
