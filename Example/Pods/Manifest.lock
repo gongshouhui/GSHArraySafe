@@ -1,0 +1,16 @@
+PODS:
+  - GSHArraySafe (0.1.0)
+
+DEPENDENCIES:
+  - GSHArraySafe (from `../`)
+
+EXTERNAL SOURCES:
+  GSHArraySafe:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GSHArraySafe: dac60afe3c00444cd1fdf2420e417740b11cc0a1
+
+PODFILE CHECKSUM: 0ad55533c556b22e0f007e8795caf66d302d550d
+
+COCOAPODS: 1.9.3

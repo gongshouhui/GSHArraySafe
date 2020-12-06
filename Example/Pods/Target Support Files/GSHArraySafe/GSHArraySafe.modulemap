@@ -1,0 +1,6 @@
+framework module GSHArraySafe {
+  umbrella header "GSHArraySafe-umbrella.h"
+
+  export *
+  module * { export * }
+}
